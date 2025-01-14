@@ -136,7 +136,7 @@ def main():
     output_video_frames = mini_court.draw_points_on_mini_court(output_video_frames,ball_mini_court_detections, color=(0,255,255))    
 
     # Draw Player Stats
-    #output_video_frames = draw_player_stats(output_video_frames,player_stats_data_df)
+    output_video_frames = draw_player_stats(output_video_frames,player_stats_data_df)
 
     ## Draw frame number 
     for i, frame in enumerate(output_video_frames):
