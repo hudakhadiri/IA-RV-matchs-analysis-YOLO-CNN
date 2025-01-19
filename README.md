@@ -25,3 +25,6 @@ Ce projet s’intègre dans les systèmes d’analyse de performance sportive et
 Ce projet fournit un système d’analyse complet pour le tennis, combinant YOLO, PyTorch et techniques de tracking. Il permet une analyse approfondie des matchs grâce à une détection précise des objets, un suivi continu et une extraction pertinente des points clés du court.
 
 Avec quelques ajustements, ce projet peut être utilisé non seulement dans le tennis mais aussi dans d’autres sports ou domaines nécessitant suivi et analyse d’objets en temps réel.
+
+## lien pour obtenir les models:
+https://drive.google.com/drive/folders/1d4HjbA6DkclvAS445RmzKeYmVOyh1pA3?usp=drive_link
